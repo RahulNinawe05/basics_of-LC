@@ -19,3 +19,5 @@ wikipedia
 arxiv
 faiss-cpu
 pdfplumber
+duckduckgo-search
+langgraph
