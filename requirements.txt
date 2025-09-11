@@ -21,3 +21,5 @@ faiss-cpu
 pdfplumber
 duckduckgo-search
 langgraph
+huggingface-hub
+transformers
