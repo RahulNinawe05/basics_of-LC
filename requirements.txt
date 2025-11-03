@@ -23,3 +23,5 @@ duckduckgo-search
 langgraph
 huggingface-hub
 transformers
+ddgs
+langchain-experimental
