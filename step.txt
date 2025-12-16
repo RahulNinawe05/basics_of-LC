@@ -1,0 +1,12 @@
+Step - 1
+DataIngestion - Document Loader
+
+Step - 2
+DataTrasfer - Split Document
+
+Step - 3
+Embedding - Embedded
+
+Step - 4
+Vector Store - Choma_db OR Faiss_db
+
